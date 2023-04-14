@@ -25,7 +25,12 @@
 
 ## How to push work to github
 1) In terminal, type => git add -A
+2) In terminal, type => git commit -m "description of commit"
+3) In terminal, type => git push
 
 ## First Website Project
 1) Only complete up to Todo 10
+
+## Portfolio Page
+1) Only complete up to Todo 6
 
